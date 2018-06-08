@@ -1,8 +1,10 @@
 body
-
 {
-
 color: #88342f;
+font-size: 14px;
+}
 
-
+input
+{
+border:1px solid blue;
 }
